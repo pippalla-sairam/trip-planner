@@ -1,12 +1,41 @@
-# React + Vite
+# Trip Planner Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive trip planner built with **React**, **Vite**, and **Tailwind CSS**, helping users explore Indian destinations with dynamic weather data, point of interests, and personalised itineraries generation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live weather updates per destination
+- 6-day itineraries for cities like Delhi, Agra, Leh-Ladakh, Jaisalmer, Udaipur, Rishikesh, and more
+- Restaurant and accommodation listings
+- Beautiful and responsive UI using Tailwind CSS
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[View Deployed Project on Vercel](https://trip-planner-beta-virid.vercel.app/)
+
+## 🛠️ Tech Stack
+
+-  **React**
+-  **Vite**
+-  **Tailwind CSS**
+-  **OpenWeatherMap API** (for weather data)
+-  JSON-based data structure for destinations
+
+
+## Development Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/trip-planner.git
+   cd trip-planner
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run locally:**
+   ```bash
+   npm run dev
+   ```
