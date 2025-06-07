@@ -1,11 +1,11 @@
 # Trip Planner Web App
 
-An interactive and responsive trip planner built with **React**, **Vite**, and **Tailwind CSS**, helping users explore Indian destinations with dynamic weather data, point of interests, and personalised itineraries generation.
+An interactive and responsive trip planner built with **React** and **Tailwind CSS**, helping users explore Indian destinations with dynamic weather data, point of interests, and personalised itineraries generation.
 
 ## Features
 
 - Live weather updates per destination
-- 6-day itineraries for cities like Delhi, Agra, Leh-Ladakh, Jaisalmer, Udaipur, Rishikesh, and more
+- 6-day itineraries for cities like Delhi, Agra, Leh-Ladakh, Jaisalmer, Udaipur, Rishikesh, and more across India
 - Restaurant and accommodation listings
 - Beautiful and responsive UI using Tailwind CSS
 
